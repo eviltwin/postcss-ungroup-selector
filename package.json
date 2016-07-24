@@ -1,0 +1,22 @@
+{
+  "name": "postcss-ungroup-selector",
+  "version": "0.1.0",
+  "description": "PostCSS plugin to ungroup vendor-specific pseudo element selectors into separate blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eviltwin/postcss-ungroup-selector.git"
+  },
+  "author": "Graham Lyon <graham.lyon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eviltwin/postcss-ungroup-selector/issues"
+  },
+  "homepage": "https://github.com/eviltwin/postcss-ungroup-selector#readme",
+  "dependencies": {
+    "postcss": "^5.1.0"
+  }
+}
